@@ -1,0 +1,17 @@
+tj_social/config.py
+__pycache__/
+.mypy_cache/
+.idea
+.venv
+.env
+.coverage
+venv
+/playground.py
+/google-credentials.json
+/celerybeat-schedule
+data/
+allure-results/
+htmlcov/
+.ipython/
+.bash_history
+db.sqlite3
